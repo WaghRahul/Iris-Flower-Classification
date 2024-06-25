@@ -1,3 +1,14 @@
-# Iris-Flower-Classification
+# Iris Flower Classification
 
-Description:- The project "Iris Flower Classification" is a machine learning project that aims to classify iris flowers into one of three species based on four features: sepal length, sepal width, petal length, and petal width. The project uses the well-known Iris dataset, which contains 150 samples from three different species of iris: Iris setosa, Iris virginica, and Iris versicolor. The project uses a supervised classification approach, where the target variable is the species of the iris. The project involves data preprocessing, exploratory data analysis, and model training and evaluation. The project uses a Logistic Regression classifier to train the model and achieves a flawless classification on the provided dataset, with an accuracy score of 1.0, indicating that it correctly classified all data points. 
+***Overview:***
+Developed a machine learning model to classify iris flowers into three species (Iris setosa, Iris virginica, Iris versicolor) using sepal and petal measurements.
+
+***Key Features:***
+- Utilized the Iris dataset with 150 samples and four features: sepal length, sepal width, petal length, and petal width.
+- Conducted data preprocessing and exploratory data analysis to understand feature distributions and relationships.
+- Implemented a Logistic Regression classifier for supervised classification.
+- Achieved perfect classification accuracy (1.0), correctly classifying all data points.
+
+***Skills:*** Machine Learning, Data Preprocessing, Exploratory Data Analysis, Logistic Regression, Model Training, Python
+
+***Keywords:*** Machine Learning, Iris Dataset, Logistic Regression, Data Analysis, Model Evaluation, Python, Classification
